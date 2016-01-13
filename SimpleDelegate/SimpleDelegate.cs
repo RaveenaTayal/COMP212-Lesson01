@@ -33,5 +33,7 @@ namespace SimpleDelegate
         {
             Console.WriteLine(message);
         }
+
+
     }
 }

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDelegate", "SimpleDelegate\SimpleDelegate.csproj", "{E206F93E-7004-4A1E-AC8D-17461A09D770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDelegate", "DemoDelegate\DemoDelegate.csproj", "{38FE28CC-3499-41CD-8084-31CC6D9995BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegate", "MulticastDelegate\MulticastDelegate.csproj", "{D7DF2059-EEB9-4A95-958C-3883C47E39E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E206F93E-7004-4A1E-AC8D-17461A09D770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E206F93E-7004-4A1E-AC8D-17461A09D770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E206F93E-7004-4A1E-AC8D-17461A09D770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E206F93E-7004-4A1E-AC8D-17461A09D770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38FE28CC-3499-41CD-8084-31CC6D9995BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FE28CC-3499-41CD-8084-31CC6D9995BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FE28CC-3499-41CD-8084-31CC6D9995BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FE28CC-3499-41CD-8084-31CC6D9995BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DF2059-EEB9-4A95-958C-3883C47E39E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DF2059-EEB9-4A95-958C-3883C47E39E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DF2059-EEB9-4A95-958C-3883C47E39E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DF2059-EEB9-4A95-958C-3883C47E39E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
